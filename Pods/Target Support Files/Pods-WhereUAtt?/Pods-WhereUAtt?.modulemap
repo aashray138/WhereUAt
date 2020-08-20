@@ -1,0 +1,6 @@
+framework module Pods_WhereUAtt_ {
+  umbrella header "Pods-WhereUAtt?-umbrella.h"
+
+  export *
+  module * { export * }
+}
